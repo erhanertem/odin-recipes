@@ -1,0 +1,45 @@
+.banner_picture {
+    width: 600px;
+    height: auto;
+}
+
+.inbodytxt {
+    font-size: 100px;
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+    font-family: Verdana, sans-serif;
+}
+
+#banner_title1 {
+    background-color: rgba(88, 88, 88, 0.637);
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    text-align: center;
+}
+#banner_title2 {
+    background-color: rgba(241, 172, 92, 0.582);
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-align: center;
+}
+#banner_title3 {
+    background-color: rgba(255, 164, 45, 0.781);
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-align: center;
+}
+
+.FoodHeadlines {
+    color: red;
+    font-size: 30px;
+    text-align: left;
+}
+
+.footnote {
+    color: orange;
+    font-size: 13px;
+    font-family: "Times New Roman";
+}
